@@ -3,6 +3,6 @@ digraph G {
 	d -> a [label = 14];
 	a -> d [label = 1];
 	b -> c [label = 46];
-	e -> c [label = 5];
+	e -> e [label = 5];
 	d -> d [label = 3];
 }
